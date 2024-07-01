@@ -1,0 +1,667 @@
+[
+    {
+        "name": "Under construction Government senior secondary school, phase-11 ,Mohali",
+        "address": "MPHR+9X3 Park No-20, Phase 11, Sector 65, Sahibzada Ajit Singh Nagar",
+        "distance": 1.72
+    },
+    {
+        "name": "Guru Nanak Public School",
+        "address": "School, Sector 68, Sahibzada Ajit Singh Nagar",
+        "distance": 2.09
+    },
+    {
+        "name": "Govt Secondary School KUMBRA",
+        "address": "789, Phase 3B1, Sector 68, Kumbra, Sahibzada Ajit Singh Nagar",
+        "distance": 2.54
+    },
+    {
+        "name": "Higher Secondary School",
+        "address": "MP53+V7X, Sector 85, Sahibzada Ajit Singh Nagar",
+        "distance": 2.69
+    },
+    {
+        "name": "Rattan Professional Education College",
+        "address": "Mouli Rd, Sector 78, Sahibzada Ajit Singh Nagar",
+        "distance": 2.71
+    },
+    {
+        "name": "DAV Public Senior Secondary School, Mohali phase 10",
+        "address": "MPQW+GPW, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar",
+        "distance": 2.89
+    },
+    {
+        "name": "BMD Public School",
+        "address": "Chandigarh Housing Board Flats, sector 63, Chandigarh",
+        "distance": 3.26
+    },
+    {
+        "name": "Government High School",
+        "address": "3495, Government High School Rd, opposite park, Sector 46C, Sector 46, Chandigarh",
+        "distance": 4.63
+    },
+    {
+        "name": "Primary school",
+        "address": "PP6C+JC3, Phase 3B-1, Sector 60, Sahibzada Ajit Singh Nagar",
+        "distance": 4.98
+    },
+    {
+        "name": "Government High School",
+        "address": "MQXC+M4P, 47A, Sector 47, Chandigarh",
+        "distance": 5.26
+    },
+    {
+        "name": "Government High School",
+        "address": "Apartment Building, Phase 5, Sector 59, Sahibzada Ajit Singh Nagar",
+        "distance": 5.53
+    },
+    {
+        "name": "Khalsa College Mohali Of Technology & Business Studies",
+        "address": "Madanpur Road, near Petrol pump, Phase 3 A, Sector 53, Sahibzada Ajit Singh Nagar",
+        "distance": 5.71
+    },
+    {
+        "name": "Government High School",
+        "address": "Phase 3 A, Sector 53, Sahibzada Ajit Singh Nagar, Chandigarh",
+        "distance": 5.72
+    },
+    {
+        "name": "manav mangal SMART SCHOOL (Junior)",
+        "address": "Sector 91, Sahibzada Ajit Singh Nagar",
+        "distance": 6.28
+    },
+    {
+        "name": "The Future University",
+        "address": "La Dafter, D-178, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar",
+        "distance": 6.29
+    },
+    {
+        "name": "Bhavan Vidyalaya (Junior Wing)",
+        "address": "Sector, opposite to Rajasthan Bhawan, 33D",
+        "distance": 6.51
+    },
+    {
+        "name": "Chandigarh Group of Colleges (CGC) - Landran",
+        "address": "Sector 112, Landran, Kharar Banur Hwy, Sahibzada Ajit Singh Nagar",
+        "distance": 6.59
+    },
+    {
+        "name": "Lovely Professional University Office",
+        "address": "625, Franco Hotel Road, Sector 55, Phase 1, Sector 55, Sahibzada Ajit Singh Nagar",
+        "distance": 6.65
+    },
+    {
+        "name": "Government Model High School",
+        "address": "PQH5+44J, Sector 35D, Sector 35, Chandigarh",
+        "distance": 7.24
+    },
+    {
+        "name": "Dashmesh Khalsa College, Zirakpur",
+        "address": "National Highway 64, Near Gurudwara Nabha Sahib,Adda Jhungian, Zirakpur, Mohali (S,A.S Nagar)",
+        "distance": 7.53
+    },
+    {
+        "name": "Government High School",
+        "address": "Unnamed Road, Sector 119, Balongi, Sahibzada Ajit Singh Nagar",
+        "distance": 7.7
+    },
+    {
+        "name": "Govt. Model High School",
+        "address": "Sector 37 C, Sector 37, Chandigarh",
+        "distance": 7.72
+    },
+    {
+        "name": "Government Model High School",
+        "address": "22C, Sector 22-C, Chandigarh",
+        "distance": 7.98
+    },
+    {
+        "name": "Govt Model sr. sec school",
+        "address": "Govt. Model. Sr. Sec. School Sector 39-C",
+        "distance": 8.25
+    },
+    {
+        "name": "Government High School",
+        "address": "1556, Vidya Path, Sector 38B, Sector 38, Chandigarh",
+        "distance": 8.69
+    },
+    {
+        "name": "Sus College",
+        "address": "Sector 18D, Sector 18, Chandigarh",
+        "distance": 8.76
+    },
+    {
+        "name": "Vivek High School",
+        "address": "Vivek High School, Sector 38 B Rd, Sector 38B, Sector 38, Chandigarh",
+        "distance": 8.88
+    },
+    {
+        "name": "Ramgarhia Public School",
+        "address": "PQFW+6RP, Sector 27D, Sector 27, Chandigarh",
+        "distance": 8.96
+    },
+    {
+        "name": "Government High School",
+        "address": "PQHR+CG7, Sarovar Path, 19D, Sector 19, Chandigarh",
+        "distance": 9.02
+    },
+    {
+        "name": "Government Primary School",
+        "address": "9, near, Railway Crossing, Sector 19, Panchkula, Zirakpur",
+        "distance": 9.15
+    },
+    {
+        "name": "Gurukul junior",
+        "address": "Royale Estate, Ambala - Chandigarh Rd, Zirakpur",
+        "distance": 9.28
+    },
+    {
+        "name": "UIET Punjab University",
+        "address": "PQX4+6RQ, Sector 25, Chandigarh",
+        "distance": 9.37
+    },
+    {
+        "name": "Junior Study School Harmilap Nagar",
+        "address": "91 , Harmilap Nagar , Baltana Harmilap Nagar , Baltana, Harmilap Nagar, Industrial Area Phase 2, Panchkula",
+        "distance": 9.55
+    },
+    {
+        "name": "Government Senior Secondary School",
+        "address": "Ekta Vihar, Sector 19, Panchkula",
+        "distance": 9.86
+    },
+    {
+        "name": "Government High School",
+        "address": "MR8P+599, Sector 17, Panchkula",
+        "distance": 10.22
+    },
+    {
+        "name": "Chitkara Junior Wing",
+        "address": "JUNIOR WING, CHITKARA INTERNATIONAL SCHOOL, Sector 25 West, Chandigarh",
+        "distance": 10.55
+    },
+    {
+        "name": "Government Senior Secondary School",
+        "address": "120-163, B Rd, Sector 17, Panchkula",
+        "distance": 10.8
+    },
+    {
+        "name": "Gyandeep public School",
+        "address": "238, Sector 18, Panchkula",
+        "distance": 11.0
+    },
+    {
+        "name": "Government Primary School",
+        "address": "MRPV+72F, Sector 15, Panchkula",
+        "distance": 11.03
+    },
+    {
+        "name": "quest college",
+        "address": "MJJ7+RR9, Niamian",
+        "distance": 11.17
+    },
+    {
+        "name": "Department Of Evening Studies",
+        "address": "Panjab University, Sector 14, Arts Block 1, University Gate No 1, Sector 14, Chandigarh",
+        "distance": 11.25
+    },
+    {
+        "name": "Govt. P. G. College For Women Sector - 14, Panchkula",
+        "address": "MRGW+MQ9, Sector 14, Panchkula",
+        "distance": 11.31
+    },
+    {
+        "name": "Government Model Sanskriti Primary School",
+        "address": "Part -2, Sector 20, Panchkula",
+        "distance": 11.49
+    },
+    {
+        "name": "Vidya Valley School",
+        "address": "Behind Jal Vayu Towers Sector 123, New, Sunny Enclave, Kharar",
+        "distance": 11.61
+    },
+    {
+        "name": "Government Model High School Pocket no.1 Manimajra Chandigarh",
+        "address": "1318, NAC Rd, Morigate, Sector 13, Panchkula",
+        "distance": 11.76
+    },
+    {
+        "name": "Government primary school sector 12 Chandigarh",
+        "address": "QQ9C+246, Sector 12, Chandigarh",
+        "distance": 11.8
+    },
+    {
+        "name": "Government High School",
+        "address": "PR4V+4V8, Sector 7, Panchkula",
+        "distance": 11.82
+    },
+    {
+        "name": "Christen Senior Secondary School",
+        "address": "PJXW+35J, Main Bazar, Kharar",
+        "distance": 12.05
+    },
+    {
+        "name": "St. Xaviers Juniors",
+        "address": "MV74+7RR, Peer Muchalla Rd, Sector 20, Panchkula",
+        "distance": 12.24
+    },
+    {
+        "name": "Ambika College of education",
+        "address": "Ambika College Of Education, Badali",
+        "distance": 12.5
+    },
+    {
+        "name": "Govt. Primary School, Majatri",
+        "address": "MHMX+8FM, Majatri",
+        "distance": 12.66
+    },
+    {
+        "name": "Henderson Jubilee Senior Secondary School",
+        "address": "CANTEEN, HENDERSON JUBILEE SENIOR SECONDARY SCHOOL, Sector 11, Garden Colony, Kharar",
+        "distance": 12.93
+    },
+    {
+        "name": "Blue bird high school",
+        "address": "819, Pancheel Park, Sector 4, Panchkula",
+        "distance": 12.93
+    },
+    {
+        "name": "Government Primary School Niamian",
+        "address": "MHXP+5GP, Niamian",
+        "distance": 14.18
+    },
+    {
+        "name": "Army Public School Junior Wing",
+        "address": "PVC9+2JQ Army Public School, Sector D, Chandimandir Cantonment, Panchkula, Bilaspur",
+        "distance": 14.56
+    },
+    {
+        "name": "Oaktree International School",
+        "address": "Shiva Enclave, GBM apart, Kharar",
+        "distance": 14.79
+    },
+    {
+        "name": "University College Chunni Kalan",
+        "address": "MH53+36M, Landran",
+        "distance": 17.0
+    },
+    {
+        "name": "Chitkara University",
+        "address": "GM95+5MR, Chitkara University Rd, Dappar",
+        "distance": 18.04
+    },
+    {
+        "name": "Chitkara University",
+        "address": "Chandigarh-Patiala National Highway (NH- 64 Village Jansla, Rajpura",
+        "distance": 18.21
+    },
+    {
+        "name": "Government Primary School",
+        "address": "GQ6Q+36W, Jalalpur",
+        "distance": 18.45
+    },
+    {
+        "name": "Chandigarh University",
+        "address": "Chandigarh University, NH-05, Ludhiana, Highway, Chandigarh State",
+        "distance": 18.64
+    },
+    {
+        "name": "Nimbua primary school",
+        "address": "JW36+8PW, Unnamed Road, Nimbuan",
+        "distance": 18.92
+    },
+    {
+        "name": "Chandigarh University South Campus",
+        "address": "CHANDIGARH UNIVERSITY, Campus Road",
+        "distance": 19.17
+    },
+    {
+        "name": "Primary School Chanalon",
+        "address": "RH9P+VMM, Chandigarh-Chintapurni-Dharamshala Rd, Ward No. 8, Chanalon",
+        "distance": 21.85
+    },
+    {
+        "name": "Junior champs playway school",
+        "address": "h.no, 1276/b1, Ratpur Colony, Pinjore",
+        "distance": 23.06
+    },
+    {
+        "name": "Government College",
+        "address": "GWXJ+M88, Barwala",
+        "distance": 23.43
+    },
+    {
+        "name": "Government Senior Secondary School",
+        "address": "VHGV+9G, Kishanpura",
+        "distance": 26.68
+    },
+    {
+        "name": "IEC UNIVERSITY, HIMACHAL PRADESH",
+        "address": "University Campus",
+        "distance": 26.75
+    },
+    {
+        "name": "Primary School Nahanheri",
+        "address": "PFW7+7RX, Bassi Pathana, Nahanheri",
+        "distance": 26.83
+    },
+    {
+        "name": "Smart school Junior kalka",
+        "address": "1002/1, Dist, near market committee office, Sohan Nagar, Kalka",
+        "distance": 27.62
+    },
+    {
+        "name": "Springfield Public School",
+        "address": "Village Sadopur, Po Kakru, Ambala - Chandigarh Expy, Ambala",
+        "distance": 28.47
+    },
+    {
+        "name": "Govt. Primary School Gadapur Patiala",
+        "address": "CP23+F2C, Gadapur",
+        "distance": 29.89
+    },
+    {
+        "name": "Pine Grove College of Education",
+        "address": "PC27+HQJ, Bassi-Morinda Highway, Bassi Pathanan, Near Usha Mata Mandir, Fatehgarh Sahib",
+        "distance": 30.53
+    },
+    {
+        "name": "Baddi University of Emerging Sciences & Technology",
+        "address": "XQ3M+5XP, Baddi University of Emerging Sciences and Technology Makhnumajra, Distt, Baddi",
+        "distance": 32.06
+    },
+    {
+        "name": "Government High School",
+        "address": "J9RM+MJ7, Dashnami Akhara, Sirhind, Fatehgarh Sahib",
+        "distance": 33.34
+    },
+    {
+        "name": "(Junior Wing)",
+        "address": "9Q9M+RWF, Jain Nagar, Vijay Nagar, Ambala",
+        "distance": 33.72
+    },
+    {
+        "name": "Cecil Convent School junior ,Ambala City",
+        "address": "19, Manali House, Sector 1, Ambala",
+        "distance": 33.82
+    },
+    {
+        "name": "Cordia College Sanghol",
+        "address": "Sanghol Archaeological Museum",
+        "distance": 34.45
+    },
+    {
+        "name": "Lohsimbly high School",
+        "address": "9P3C+JQ4, Ghanaur-Ambala Road, Tehsil Rajpura, Lohsimbly",
+        "distance": 35.03
+    },
+    {
+        "name": "Government Senior Secondary School",
+        "address": "VC8R+6GQ, Chhotta Makruana",
+        "distance": 35.43
+    },
+    {
+        "name": "Kasauli International Public School",
+        "address": "W223+84R, Dharampur Kasauli Road, Sanwara,(Shimla Hills)Tehsil Kasauli, Dist. Solan, Dharampur",
+        "distance": 36.95
+    },
+    {
+        "name": "Govt. Primary School Dholewal",
+        "address": "P8RX+4XQ, Dholewal",
+        "distance": 37.32
+    },
+    {
+        "name": "Cecil Convent School Junior , Ambala Cantt",
+        "address": "Staff Rd, opposite GPO, Palledar Mohalla, Football Chowk, Ambala Cantt",
+        "distance": 37.55
+    },
+    {
+        "name": "SD Senior Secondary School",
+        "address": "8RRV+265 SD sr. sec. school, Cross Rd 4, Punjabi Mohalla, Sadar Bazar, Ambala Cantt",
+        "distance": 38.19
+    },
+    {
+        "name": "RIMT UNIVERSITY",
+        "address": "M82H+998, Delhi-Jalandhar GT Road (NH1), Sirhind Side, RIMT University Rd, Mandi Gobindgarh",
+        "distance": 38.52
+    },
+    {
+        "name": "Sanatan Dharma College, Ambala Cantt",
+        "address": "8VQ3+38J, Jagadhari Rd, Near Civil Hospital, Tribune Colony, Ambala Cantt",
+        "distance": 38.57
+    },
+    {
+        "name": "Smart Juniors",
+        "address": "XG77+8J7, Shampura, Rupnagar",
+        "distance": 39.01
+    },
+    {
+        "name": "Government Senior Secondary School (Boys) Rupnagar",
+        "address": "XGGG+MV6, Giani Zail Singh Nagar, Rupnagar",
+        "distance": 39.61
+    },
+    {
+        "name": "MANAV BHARTI UNIVERSITY",
+        "address": "V39M+VXR MMU Bus Stop, SH 6, Laddo, Sultanpur",
+        "distance": 40.82
+    },
+    {
+        "name": "Maharishi Markandeshwar University kumarhatti solan",
+        "address": "V3CP+MG8, Bajoral Khurd, Solan",
+        "distance": 41.12
+    },
+    {
+        "name": "Punjab College Of Education, Patiala",
+        "address": "Bahadurgarh, Patiala",
+        "distance": 41.17
+    },
+    {
+        "name": "Government College,Nalagarh",
+        "address": "2PQ6+CQH, Teh, Professors Colony, Phase2, Nalagarh",
+        "distance": 41.47
+    },
+    {
+        "name": "Guru Nanak Dev University",
+        "address": "Grand Trunk Rd, off NH 1, Amritsar, Fatehgarh Sahib",
+        "distance": 41.63
+    },
+    {
+        "name": "SNAS Arya Senior Secondary School Mandi Gobindgarh",
+        "address": "Modi Mill Rd, Nasrali, Mandi Gobindgarh",
+        "distance": 41.96
+    },
+    {
+        "name": "Scholar Fields Public School",
+        "address": "Sirhid Rd, Majri Akalian",
+        "distance": 42.23
+    },
+    {
+        "name": "Mount Carmel International school naraingarh",
+        "address": "Sai Mandir, Kathemajra, Roadir, Naraingarh",
+        "distance": 43.29
+    },
+    {
+        "name": "Shoolini University",
+        "address": "Solan-Oachghat-Kumarhatti Highway, Bajhol",
+        "distance": 43.3
+    },
+    {
+        "name": "Lamrin Tech Skills University Punjab",
+        "address": "40 min from Chandigarh & 5 min from, on, NH 344A, Rupnagar, Chandigarh",
+        "distance": 43.53
+    },
+    {
+        "name": "Government Primary School",
+        "address": "F8JH+WH3, Dayagarh, Rajinder Nagar",
+        "distance": 43.74
+    },
+    {
+        "name": "B.L. Central Public Senior Secondary School",
+        "address": "B.L. Central Public Senior Secondary School Damrog, Shamti, Rajgarh Rd, Solan",
+        "distance": 43.89
+    },
+    {
+        "name": "Ryan Public School junior wing New Branch. Patiala",
+        "address": "1183, Urban Estate Phase II, Urban Estate, Patiala, Falauli",
+        "distance": 45.42
+    },
+    {
+        "name": "Milestone Smart School (junior wing)",
+        "address": "Near, Aman Bagh, Sirhind - Patiala Rd, Patiala",
+        "distance": 45.98
+    },
+    {
+        "name": "Neev DMW Primary School",
+        "address": "9C39+3XH, DMW Railway Colony, Patiala",
+        "distance": 46.11
+    },
+    {
+        "name": "Arya High School",
+        "address": "8CW8+4Q8, Guru Nanak Nagar, Patiala",
+        "distance": 46.93
+    },
+    {
+        "name": "Junior Cambridge School",
+        "address": "#424, Street Number 4, Gurbax Colony, Patiala",
+        "distance": 47.24
+    },
+    {
+        "name": "Sacred Heart Convent Senior Secondary School (Primary Wing)",
+        "address": "M-11, Narottam Nagar Rd, Narrottam Nagar, Moti Nagar, Khanna",
+        "distance": 47.31
+    },
+    {
+        "name": "Nauni Campus",
+        "address": "Dr Yashwant Singh, Parmar University horticulture and forestry, Nauni, Solan",
+        "distance": 47.35
+    },
+    {
+        "name": "YS Parmar Nauni university administration block",
+        "address": "V569+WMQ, SH 6, Nauni",
+        "distance": 47.46
+    },
+    {
+        "name": "Govt senior secondary school",
+        "address": "996P+8GM, Dashmesh Nagar A, Tripuri, Patiala",
+        "distance": 47.6
+    },
+    {
+        "name": "Govt. Secondary school",
+        "address": "6PQJ+QFC, Ambala",
+        "distance": 47.83
+    },
+    {
+        "name": "Modern Senior Secondary School",
+        "address": "89WX+62W, Gurudwara Dukhniwaran Sahib, Road, Patiala",
+        "distance": 48.11
+    },
+    {
+        "name": "summer valley",
+        "address": "89RQ+VQ2, Rajbaha Rd, Sewak Colony, Patiala",
+        "distance": 48.93
+    },
+    {
+        "name": "Government Senior Secondary School",
+        "address": "G65W+JPF, Bhadson",
+        "distance": 49.7
+    },
+    {
+        "name": "Smilestones Junior School - Day Care Centres in Patiala, Kindergarten School in Patiala, Best Playway School in Patiala",
+        "address": "Between 22-23, 1-A, Phatak, Gill Road, Hira Nagar, Patiala",
+        "distance": 50.21
+    },
+    {
+        "name": "Government Mohindra College",
+        "address": "Government Mohindra College, Lower Mall Rd, Lower Mall, Patiala",
+        "distance": 50.65
+    },
+    {
+        "name": "Junior School YPS",
+        "address": "89CQ+PG9, New Lal Bagh Colony, Patiala",
+        "distance": 50.68
+    },
+    {
+        "name": "Main building of Mohindra College",
+        "address": "897W+PRV, Lower Mall, Patiala",
+        "distance": 50.81
+    },
+    {
+        "name": "Women College Patiala",
+        "address": "YPS Chowk, Bharpur Garden Colony, Patiala",
+        "distance": 50.93
+    },
+    {
+        "name": "Bahra University",
+        "address": "National Highway 22, Tehsil Kandaghat, Distt, Waknaghat",
+        "distance": 51.0
+    },
+    {
+        "name": "Harion Khurd Primary School",
+        "address": "V644+9V9 Link Road, Harion Kalan-Harion Khurd Rd, Harion Khurd",
+        "distance": 54.38
+    },
+    {
+        "name": "The Northern High School",
+        "address": "96FR+QH9, Patiala Rd",
+        "distance": 57.27
+    },
+    {
+        "name": "Shishu Shiksha Niketan Sr. Sec.School Totu Shimla",
+        "address": "below Main Bazar, near Prabhudas Clinic, Totu, Shimla",
+        "distance": 61.26
+    },
+    {
+        "name": "Government Primary School, Thund",
+        "address": "X6RX+84F",
+        "distance": 61.42
+    },
+    {
+        "name": "ARTRAC Primary School",
+        "address": "444P+6G8, Andri, Summer Hill, Shimla",
+        "distance": 62.54
+    },
+    {
+        "name": "Government High School",
+        "address": "443W+7QX, Near Advanced University, Chaura Maidan, Shimla",
+        "distance": 62.99
+    },
+    {
+        "name": "HPU University Gate",
+        "address": "445Q+PW9, Summer Hill, Shimla",
+        "distance": 63.09
+    },
+    {
+        "name": "Government Center Primary School",
+        "address": "Near, Jakhoo - Richmont Rd, Bemloi, Shimla",
+        "distance": 64.76
+    },
+    {
+        "name": "Auckland School Shimla",
+        "address": "455H+7PC, Circular Road, Longwood, Shimla",
+        "distance": 65.42
+    },
+    {
+        "name": "Primary School Sainsarwal",
+        "address": "76GC+FR3, Sainserwal",
+        "distance": 65.58
+    },
+    {
+        "name": "College",
+        "address": "36V4+VX4, Bhattakufer, Shimla",
+        "distance": 66.13
+    },
+    {
+        "name": "Sacred Heart School",
+        "address": "4634+98R, Churat Nala Rd, Cemetery, Dhalli, Shimla, Bhawana",
+        "distance": 66.73
+    },
+    {
+        "name": "SDS Govt College Jadla",
+        "address": "Jadla",
+        "distance": 67.28
+    },
+    {
+        "name": "Government Senior Secondary School, Dhalli",
+        "address": "Dhalli, Shimla",
+        "distance": 67.78
+    }
+]
